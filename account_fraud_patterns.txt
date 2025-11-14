@@ -1,0 +1,26 @@
+ACCOUNT-RELATED FRAUD PATTERNS
+
+ACCOUNT TAKEOVER PATTERNS:
+- Sudden change of contact information followed by large transfers
+- Multiple failed login attempts from unfamiliar locations
+- Account accessed from IP addresses in different countries within short timeframes
+- Unusual changes to direct deposit information
+- Unfamiliar devices accessing accounts
+- Session hijacking of active banking sessions
+- SIM swapping to intercept 2FA codes
+
+APPLICATION FRAUD PATTERNS:
+- Synthetic identities combining real and fake information
+- Identity theft with slight personal information modifications
+- Rapid succession of loan applications across multiple institutions
+- Income documentation inconsistencies
+- Address mismatches between application documents
+- Fake employment documentation
+- Hidden debt obligations not disclosed
+
+INTERNAL FRAUD PATTERNS:
+- Employee overriding normal verification procedures
+- After-hours system access without business justification
+- Modified customer records by authorized users
+- Approving fraudulent loans to accomplices
+- Creating fake vendor accounts for payments

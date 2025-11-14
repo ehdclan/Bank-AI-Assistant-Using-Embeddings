@@ -1,0 +1,31 @@
+DETECTION AND PREVENTION PATTERNS
+
+LOAN FRAUD PATTERNS:
+- Inflated property valuations for mortgage loans
+- Straw borrower schemes
+- Asset inflation for business loans
+- False income statements for personal loans
+- Collateral fraud using non-existent assets
+
+DETECTION INDICATORS:
+- Unusual login times matching known attack patterns
+- Multiple account applications from same device
+- Velocity pattern violations
+- Behavioral biometric anomalies
+- Device fingerprint mismatches
+- Geographic impossibilities
+- Amount aggregation patterns
+- Time-of-day anomalies
+- Recipient network analysis
+
+PREVENTION TECHNIQUES:
+- Multi-factor authentication requirements
+- Transaction amount thresholds
+- Geographic usage restrictions
+- Behavioral analysis scoring
+- Device recognition systems
+- Velocity monitoring
+- Peer group comparison analytics
+- Machine learning anomaly detection
+- Real-time transaction blocking
+- Customer education programs

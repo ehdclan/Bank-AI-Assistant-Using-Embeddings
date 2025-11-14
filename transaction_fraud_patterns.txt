@@ -1,0 +1,24 @@
+TRANSACTION-RELATED FRAUD PATTERNS
+
+TRANSACTION FRAUD PATTERNS:
+- Multiple small transactions testing card limits
+- Large purchases at unusual merchants for account holder
+- Rapid-fire transactions at same merchant
+- Transactions in geographic locations far from cardholder's home
+- Structured deposits/withdrawals to avoid reporting thresholds
+- Circular transactions between related accounts
+- Third-party payments without clear business relationship
+
+MONEY LAUNDERING PATTERNS:
+- Structured cash deposits just below reporting thresholds
+- Rapid movement of funds between multiple accounts
+- Unusual business account activity inconsistent with stated purpose
+- Layering through complex transaction chains
+- Integration into legitimate business accounts
+
+CHECK FRAUD PATTERNS:
+- Altered payee names or amounts on legitimate checks
+- Counterfeit checks with valid account information
+- Check kiting between institutions
+- Forged endorsements
+- Duplicate check presentment

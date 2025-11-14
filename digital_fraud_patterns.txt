@@ -1,0 +1,29 @@
+DIGITAL AND CARD FRAUD PATTERNS
+
+PHISHING AND SOCIAL ENGINEERING:
+- Impersonation of bank officials to obtain credentials
+- Fake emergency scenarios to bypass security
+- Authority impersonation to manipulate employees
+- Vishing attacks targeting elderly customers
+- Business email compromise targeting corporate accounts
+
+ATM AND CARD FRAUD:
+- Skimming devices installed on card readers
+- Shoulder surfing to capture PINs
+- Card trapping mechanisms retaining cards
+- Cash trapping in dispenser mechanisms
+- False front panels on ATM interfaces
+
+ONLINE BANKING FRAUD:
+- Man-in-the-middle attacks intercepting transactions
+- Malware capturing keystrokes and credentials
+- Fake mobile banking applications
+- Credential stuffing attacks using breached data
+- DNS spoofing redirecting to fake banking sites
+
+CREDIT CARD FRAUD:
+- Account number generation algorithms testing valid numbers
+- Merchant collusion schemes
+- Friendly fraud chargebacks
+- Card-not-present fraud with stolen details
+- Account stacking with multiple authorized users
