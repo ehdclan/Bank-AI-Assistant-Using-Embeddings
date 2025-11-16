@@ -37,7 +37,7 @@ for key, value in docs.items():
     )
     embeddings[key] = np.array(res.data[0].embedding)
 
-    question = "What is the maximum amount for personal loans?"
+    question = ""
 
     q_embeded = np.array(client.embeddings.create(
         input=question,
@@ -49,12 +49,18 @@ for key, value in docs.items():
     
     best_doc = None
     best_score = -1
+    scores = []
 
     for name, emb in embeddings.items():
         score = cosine_similarity(q_embeded, emb)
-        if score > best_score:
-            best_score = score
-            best_doc = name
+        scores = [score]
+        if scores[0] > scores[1] and scores[0] > scores[2]:
+            best_score = scores[0]
+        elif scores[1] > scores[0] and scores[1] > scores[2]:
+            best_score = scores[1]
+        else:
+            best_score = score[2]
+        best_doc = name
 
     print(f"Best matching document: {best_doc} with score {best_score:.2f}")
 

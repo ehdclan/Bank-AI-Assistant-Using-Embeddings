@@ -162,7 +162,6 @@ def analyze_transaction(transaction_description):
 
     print(f"📊 Best matching document: {best_doc} (score: {best_score:.2f})")
 
-    # Get detailed analysis
     context = docs[best_doc]()
     response = client.chat.completions.create(
         model="gpt-4o-mini",
@@ -176,7 +175,6 @@ def analyze_transaction(transaction_description):
     print(f"🔍 Analysis: {analysis}")
 
 def batch_analyze_transactions():
-    """Analyze multiple transactions at once"""
     print("\n" + "="*60)
     print("BATCH TRANSACTION ANALYSIS")
     print("="*60)
@@ -190,13 +188,11 @@ def batch_analyze_transactions():
     for i, transaction in enumerate(transactions, 1):
         print(f"{i}. {transaction}")
     
-    # Analyze all transactions
     for i, transaction in enumerate(transactions, 1):
         print(f"\n--- Analyzing Transaction {i} ---")
         analyze_transaction(transaction)
 
 def main():
-    """Main function with menu options"""
     while True:
         print("\n" + "="*50)
         print("NIGERIAN BANK FRAUD DETECTION SYSTEM")
