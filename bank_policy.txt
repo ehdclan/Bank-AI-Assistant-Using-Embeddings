@@ -1,0 +1,97 @@
+WEMA BANK & ALAT GENERAL BANKING POLICIES
+
+Wema Bank Plc, licensed by the Central Bank of Nigeria (CBN), operates ALAT as Africa’s first fully digital bank since 2017. All services are delivered via ALAT app, USSD (*945#), web, and branches. Policies comply with CBN guidelines, NDPR 2019, AML/CFT laws, and international standards (ISO 27001, PCI-DSS). Customers must provide BVN, valid ID, and consent to auto-debits/terms.
+
+KEY PRINCIPLES
+• Compliance: Strict adherence to CBN, SEC, NDPA, AML/CFT, and global sanctions.
+• Account Currency: Naira or USD (domiciliary); payable only in legal tender.
+• Fees: Transaction charges, maintenance fees, overdraft interest at bank’s discretion.
+• Security: Multi-factor authentication (PIN, OTP, hardware token); customer liable if credentials shared.
+• Dispute Resolution: Report via 0700-078-7753 or purpleconnect@wemabank.com; 24/7 fraud monitoring.
+• Termination: Bank may freeze/close accounts for fraud, inactivity, or regulatory breach.
+• Governing Law: Laws of the Federal Republic of Nigeria; disputes resolved in Lagos courts.
+
+1. ACCOUNT OPENING & MANAGEMENT
+   • Eligibility:
+        – Age 18+ (13–17 with guardian for ALAT Xplore; 0–12 for Royal Kiddies).
+        – Valid NIN/BVN, phone number, email.
+   • Account Types: Savings, Current, Domiciliary (USD), ALAT Xplore, Royal Kiddies.
+   • Opening Process: Fully digital; zero minimum balance for basic ALAT account.
+   • Customer Obligations:
+        – Bound by all bank rules.
+        – Notify bank immediately of any change in details.
+        – No illegal or fraudulent use.
+   • Bank Rights:
+        – Honor withdrawals only if funds available.
+        – Charge interest on overdrafts at prevailing rate.
+        – Set-off debts across any accounts without notice.
+   • Closure: 30 days’ notice required; bank may close instantly for fraud/inactivity.
+   • Key Clause: “Any mail sent to last known address shall be considered duly delivered.”
+
+2. ELECTRONIC & DIGITAL BANKING TERMS (ALAT App, *945#, Internet Banking)
+   • Services: Balance inquiry, intra/inter-bank transfers, bill payments, loan applications, card control, etc.
+   • Access Requirements: Username, password, transaction PIN, OTP (SMS/email/token), security questions.
+   • Availability: 24/7 on best-effort basis; no liability for downtime or technical glitches.
+   • Customer Responsibilities:
+        – Safeguard all credentials.
+        – Log out after use; change compromised details immediately.
+        – Report unauthorized transactions instantly.
+        – Liable for losses if credentials shared.
+   • Bank Responsibilities:
+        – Authenticate via security details.
+        – Screen transactions for fraud/sanctions.
+        – Deduct applicable fees post-activation.
+   • Indemnity: Customer indemnifies bank against third-party claims arising from misuse.
+   • Key Clause: “Issuance of any instruction with Account Security Details is sufficient confirmation.”
+
+3. PRIVACY POLICY (NDPR COMPLIANT)
+   • Data Controller: Wema Bank Plc.
+   • Information Collected:
+        – Personal: Name, BVN, ID, contact, financial history.
+        – Digital: IP, device info, cookies, transaction logs.
+        – Third-party: Credit bureaus, referees, employers.
+   • Purposes:
+        – Service delivery & improvement.
+        – Fraud prevention & regulatory compliance.
+        – Marketing (only with consent).
+   • Sharing: Affiliates, service providers, regulators, law enforcement; never sold.
+   • Security: Encrypted storage; PCI-DSS & ISO 27001 certified.
+   • Retention: Minimum 5–7 years (legal requirement); deleted on valid request.
+   • Customer Rights:
+        – Access, rectification, erasure, restriction, portability, objection.
+        – Withdraw consent (may limit services).
+        – Complain to NITDA.
+   • Contact: dpo@wemabank.com
+   • Key Clause: “Right to erasure applies unless compelling legal requirement exists.”
+
+4. FRAUD MANAGEMENT POLICY
+   • Objective: Prevent, detect, respond; 95% fraud loss reduction in 2024.
+   • Coverage: All channels (branches, ALAT app, cards, USSD, web).
+   • Prevention:
+        – 24/7 AI monitoring.
+        – OTP & multi-factor authentication.
+        – Phishing awareness campaigns.
+   • Detection & Response:
+        – Automated alerts; instant account freeze if suspicious.
+        – Dedicated Fraud Protection Teams.
+        – Recovery via set-off or legal action.
+   • Customer Duty:
+        – Never share PIN/OTP.
+        – Report fraud via separate device/channel.
+   • Bank Liability: None if customer negligence proven.
+
+5. OTHER SPECIALIZED POLICIES
+   • AML/CFT/CPF: Mandatory KYC; suspicious activity reported to NFIU/EFCC.
+   • Sanctions Policy: Full compliance with OFAC, UN, EU lists; transactions screened.
+   • Anti-Bribery & Corruption: Zero tolerance; whistleblower protection.
+   • POS Merchant Agreement: Merchants secure terminals; 1–3% fees; liable for chargebacks.
+   • ALATPay Terms: Online payment gateway; merchants notify breaches promptly.
+   • Whistleblowing Policy: Anonymous reporting; no retaliation.
+   • Business Continuity Policy: Ensures service during cyber incidents, disasters, etc.
+
+CONTACT & VERIFICATION
+• Latest policies: ALAT app → Help → Terms & Conditions or wemabank.com/resource-center
+• Support: 0700-078-7753 | purpleconnect@wemabank.com
+• Data Protection Officer: dpo@wemabank.com
+• Policies subject to change per CBN directives; customers deemed notified 30 days after publication.
+

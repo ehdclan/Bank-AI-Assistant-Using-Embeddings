@@ -1,0 +1,105 @@
+WEMA BANK & ALAT FAQs (November 2025)
+
+1. GENERAL ALAT & ACCOUNT
+   • What is ALAT?  
+     ALAT is Wema Bank’s fully digital banking platform. All banking services (account opening, transfers, bills, loans, cards) are available 100% online without visiting a branch.
+   • Who can use ALAT?  
+     Anyone with a smartphone and valid Nigerian ID.
+   • Cost to sign up?  
+     Completely free.
+   • Supported platforms?  
+     Android and iOS (download from Google Play or App Store).
+   • How to open an account?  
+     Download app → Enter BVN → Upload valid ID (NIN, Driver’s License, or International Passport) → Complete verification.
+   • How to create a savings goal?  
+     App → Savings/Goals → Create Goal → Choose Fixed (no withdrawals), Flexible (limited access), or Target → Set amount & frequency.
+   • How to pay bills?  
+     App → Airtime & Bills → Bill Payment → Select provider → Enter customer ID → Confirm with PIN.
+   • How to request a debit card?  
+     App → Cards → Choose design → Enter delivery address → Confirm with PIN (delivery in 2 business days).
+   • How to change password?  
+     Settings → Security → Change Password → Enter old → Set new (8+ characters, mix of letters/numbers/symbols).
+   • Other ways to bank?  
+     Use *945# USSD for basic transactions if no internet.
+
+2. LOANS
+   • What is ALAT Salary Loan?  
+     Unsecured loan up to ₦4M for salaried employees whose employers are enlisted with Wema/ALAT.
+   • Can business owners apply?  
+     No — explore SME or personal loans instead.
+   • Min/Max amount??
+     ₦50,000 – ₦4,000,000 (depends on salary & credit score).
+   • Need a Wema account?  
+     Yes, but you can open one instantly in the app.
+   • Collateral required?  
+     No.
+   • How is eligibility checked?  
+     Instant credit check via lending partners using BVN history, income proof, and risk score.
+
+3. CARDS & VIRTUAL CARDS
+   • Lost card — how to block?  
+     App → Cards → Select card → Block Card OR call 07000PURPLE immediately.
+   • Card not working on POS?  
+     Check balance, ensure chip/contactless enabled, or retry later (common: insufficient funds or network glitch).
+   • “Issuer offline” error?  
+     Temporary bank network issue; retry after 5–10 minutes.
+   • What is Virtual Dollar Card?  
+     Non-physical USD card for online purchases only. Created in app, funded by converting Naira at bank rate; unused funds can be converted back.
+   • Can I transfer money with Virtual Dollar Card?  
+     No — online purchases only (no ATM, POS, or transfers).
+   • Where accepted?  
+     Any website/app accepting dollar cards (except those requiring 3D Secure).
+   • Can non-customers get prepaid card?  
+     No — open ALAT account first.
+   • Can Wema prepaid card be used abroad?  
+     Yes, wherever Visa/Mastercard is accepted.
+
+4. ALAT FOR BUSINESS
+   • What is it?  
+     Corporate internet banking for SMEs & corporates to manage accounts, payments, and finances online.
+   • Who can sign up?  
+     Any registered business with a Wema account.
+   • How to sign up?  
+     Visit business.alat.ng → Sign-up → Choose single/multiple signatory → Enter account number → Verify with OTP.
+   • Forgot password?  
+     business.alat.ng → Forgot Password → Enter username → Reset.
+   • View recent transactions?  
+     Dashboard → Select account → Recent Activities or Transaction History.
+   • Request business debit card?  
+     Yes, via Cards section.
+   • Offshore transfers?  
+     Yes, up to CBN limits ($10,000 per transaction, $50,000 monthly for eligible accounts).
+   • What is OUTLET BY ALAT?  
+     E-commerce storefront for ALAT for Business users to sell online.
+   • Must I have ALAT account to transact on OUTLET?  
+     Yes.
+
+5. SECURITY & SUPPORT
+   • Is my money insured?  
+     Yes — every deposit is insured by NDIC.
+   • Security measures?  
+     PCI-DSS certified, 24/7 fraud monitoring, AI screening, multi-factor authentication (OTP + PIN).
+   • Suspect fraud?  
+     Report immediately via app (use different device), call helpline, or email. Account frozen until cleared; no liability if reported promptly.
+
+6. PROMOTIONS & INCENTIVES
+   • Weekly giveaways: 50 customers get ₦5,000 for funding accounts.
+   • Monthly draws: 120 winners (2 × ₦1M, 8 domiciliary customers × ₦250,000).
+   • Healthcare subscription: Unlimited consultations via toll-free line.
+
+CONTACT & SUPPORT
+   • Helpline: 07000PURPLE (0700-078-7753) | +234-803-900-3700 | +234-01-277-7700-9
+   • Email: purpleconnect@wemabank.com | help@alat.ng
+   • WhatsApp/Chat: 09044411010
+   • USSD: *945#
+   • Support portal: purpleconnect.wemabank.com
+   • Social: @wemabank | @alat_ng (X, Instagram, Facebook, TikTok)
+
+RECENT UPDATES (Nov 2025)
+   • Enhanced PAPSS for seamless cross-border payments.
+   • Improved currency conversion display.
+   • FGN/ALAT Digital Skillnovation — training 1M+ MSMEs in digital skills.
+
+For latest info: Download ALAT app or visit wemabank.com/alat. Over 250,000 users across 36 states with ₦1.6B+ deposits.
+
+</DOCUMENT>

@@ -1,0 +1,68 @@
+Wema Bank, through its digital banking arm ALAT (Africa's first fully digital bank), offers a variety of loan products for individuals, salary earners, businesses, and SMEs. Products include Instant/Quick Loans, Salary-Based Loans, Goal-Based Loans, Personal Loans, Payday Loans, Term Loans, and SME Financing (including women-focused loans). All loans are applied for digitally via the ALAT app or USSD (*945*65#), require minimal paperwork, and feature auto-debit repayment. Loans are subject to credit evaluation, risk scoring, and binding consent for automatic deductions.
+
+GENERAL POLICIES (ALL LOAN PRODUCTS)
+• Eligibility: Valid ID (National ID, Driver’s License, International Passport), BVN, proof of income/cash flow (salary slips, utility bill <3 months). Guarantors may be required for larger amounts.
+• Application: Fully digital (ALAT app or USSD). No branch visit; instant approval/disbursement for qualifying products.
+• Repayment: Auto-debit from linked account (Remita mandate if non-Wema). Early repayment via “Bills Payment” in app.
+• Fees: Credit check ≤₦1,000 (one-off) + ₦400 quarterly; management 0.5–1%; insurance 0.5–1%; processing up to 15% in some cases.
+• Interest: 4–17.49% p.a. or monthly, based on risk profile.
+• Security: NDIC-insured deposits; fraud screening; irrevocable consent to debits and data use.
+• Limitations: Primarily for Nigerian residents; some products initially Lagos-focused but now nationwide.
+
+PRODUCT BREAKDOWN
+1. ALAT Instant/Quick Loan
+   - Eligibility: Regular cash flow, ALAT/Wema account, valid ID, BVN, utility bill. Larger amounts: 2 guarantors + post-dated cheques.
+   - Amount: Up to ₦2,000,000 (no collateral).
+   - Tenor: Up to 30 days.
+   - Interest: 7% per month (84% p.a. effective).
+   - Fees: Management 1%, Insurance 1%, Credit check as above.
+   - Process: ALAT app → Loans → Apply → Accept terms → Instant disbursement.
+
+2. ALAT Salary-Based Loan
+   - Eligibility: Salary domiciled with enlisted employer, valid ID, employment letter, 6 months’ statements, passport photo.
+   - Amount: ₦50,000 – ₦4,000,000.
+   - Tenor: Up to 12 months.
+   - Interest: 4% p.a. (Wema-domiciled salaries; higher otherwise).
+   - Fees: Standard credit/insurance; minimal processing.
+   - Process: ALAT app → Loans → Get a Loan (auto-approval for eligible).
+
+3. Goal-Based Loan
+   - Eligibility: Active ALAT goal savings account, proof of income.
+   - Amount: Up to 80% of goal savings balance.
+   - Tenor: Up to 12 months.
+   - Interest: 17.49% p.a.
+   - Fees: Management 1%, Insurance 0.5%, Credit check standard.
+   - Process: ALAT app or branch.
+
+4. Personal Loan / Payday Loan
+   - Eligibility: ALAT/Wema account, valid ID, employment letter, passport photo, 6 months’ statements.
+   - Amount: Up to ₦2M+ (payday smaller & quicker).
+   - Tenor: Payday 30–90 days; Personal up to 12 months.
+   - Interest: 4–7% monthly.
+   - Fees: Processing up to 15% + ₦5,000 credit check in some cases.
+   - Process: *945*65# or ALAT app → Loans.
+
+5. Term Loans (Corporate/Business)
+   - Eligibility: Registered business, financial statements, collateral (large amounts), business plan.
+   - Amount/Tenor: Project-based (short ≤1yr, medium 1–5yrs, long >5yrs).
+   - Interest: Competitive (revenue-tied).
+   - Process: Branch or ALAT for Business app.
+
+6. SME Loans (incl. Women-Focused)
+   - Eligibility: SME account; women-owned SMEs need no collateral/guarantor if growing.
+   - Amount/Tenor: Project-based, typically 3–24 months.
+   - Interest: 9% all-in for women SMEs.
+   - Process: ALAT for Business or branch.
+
+PAYDAY LOAN – FULL TERMS & CONDITIONS (EXTRACTED & CLEANED)
+• Interest: 24% p.a. (2% monthly), subject to change with 10 business days’ notice.
+• Fees:
+   - Management: 1% flat (upfront).
+   - Insurance: 0.65% p.a. (monthly, covers death/permanent disability).
+   - Credit Check: Max ₦1,000 one-off + ₦400 quarterly.
+• Security: Irrevocable salary domiciliation to Wema Bank.
+• Global Standing Instruction & Set-Off: Borrower consents to CBN-directed set-off from any bank account/financial asset via CRMS. Waives confidentiality rights.
+• Default: Immediate full repayment due; default fee on overdue balance after 30 days; bank may assign debt to third party or foreclose on job loss/change.
+• Disclosure: Credit information shared with licensed bureaus; borrower waives banker’s duty of secrecy.
+• Indemnity: Borrower indemnifies bank for all recovery costs (legal fees, commissions, etc.).
+• Governing Law: Laws of Nigeria; disputes via arbitration in Lagos (Arbitration & Conciliation Act).
