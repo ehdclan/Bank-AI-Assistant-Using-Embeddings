@@ -6,7 +6,7 @@ import os
 load_dotenv()
 
 def load_file(path):
-    with open(path, "r") as f:
+    with open(path, "r", encoding='utf-8', errors='ignore') as f:
         document_text = f.read()
     return document_text
 
@@ -20,9 +20,8 @@ client = AzureOpenAI(
 )
 
 docs = {
-    "bank_policy.txt": lambda: load_file("bank" \
-    "_policy.txt"),
-    "loan_terms.txt": lambda: load_file("loan_policy.txt"),
+    "bank_policy.txt": lambda: load_file("bank_policy.txt"),
+    "loan_policy.txt": lambda: load_file("loan_policy.txt"),
     "faq.txt": lambda: load_file("faq.txt")
 }
 
@@ -60,13 +59,6 @@ second_best_score, second_best_doc = top_documents[1]
 
 print(f"Best matching document: {best_doc} with score {best_score:.2f}")
 print(f"Second best matching document: {second_best_doc} with score {second_best_score:.2f}")
-
-    # best_doc = top_2[0][1]
-    # second_best = top_2[1][1]
-    # best_score = top_2[0][0]
-    # second_best_score = top_2[1][0]
-    # print(f"Best matching document: {best_doc} with score {best_score:.2f}")
-    # print(f"Second best matching document: {second_best} with score {second_best_score:.2f}")
 
 context = docs[best_doc]()
 response = client.chat.completions.create(
