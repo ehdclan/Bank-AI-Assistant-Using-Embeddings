@@ -10,17 +10,14 @@ def load_file(path):
         document_text = f.read()
     return document_text
 
+def cosine_similarity(a, b):
+    return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
+
 client = AzureOpenAI(
         api_version="2024-12-01-preview",
         azure_endpoint="https://ugoch-mhrmec5e-eastus2.cognitiveservices.azure.com/",
         api_key=os.getenv("API_KEY"),
 )
-
-# docs = {
-#     "bank_policy.txt": "Transfers above NGN5,000,000 require manager approval.",
-#     "loan_terms.txt": "Maximum personal loans is NGN2,000,000",
-#     "faq.txt": "You can reset your password in the mobile app settings"
-# }
 
 docs = {
     "bank_policy.txt": lambda: load_file("bank" \
@@ -45,27 +42,31 @@ q_embeded = np.array(client.embeddings.create(
     model="text-embedding-3-small"
 ).data[0].embedding)
 
-def cosine_similarity(a, b):
-    return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
-
 best_doc = None
 best_score = -1
-scores = []
 
-for name, emb in embeddings.items():
-    score = cosine_similarity(q_embeded, emb)
-    scores.append((score, name))
+def search_for_top_docs(q_embeded, doc_embeddings, top_docs=2):
+    scores = []
+    for name, emb in doc_embeddings.items():
+        score = cosine_similarity(q_embeded, emb)
+        scores.append((score, name))
 
-scores.sort(reverse=True)
-top_2 = scores[:2]
+    scores.sort(reverse=True)
+    return scores[:top_docs]
 
-best_doc = top_2[0][1]
-second_best = top_2[1][1]
-best_score = top_2[0][0]
-second_best_score = top_2[1][0]
+top_documents = search_for_top_docs(q_embeded, embeddings, top_docs=2)
+best_score, best_doc = top_documents[0]
+second_best_score, second_best_doc = top_documents[1]
 
 print(f"Best matching document: {best_doc} with score {best_score:.2f}")
-print(f"Second best matching document: {second_best} with score {second_best_score:.2f}")
+print(f"Second best matching document: {second_best_doc} with score {second_best_score:.2f}")
+
+    # best_doc = top_2[0][1]
+    # second_best = top_2[1][1]
+    # best_score = top_2[0][0]
+    # second_best_score = top_2[1][0]
+    # print(f"Best matching document: {best_doc} with score {best_score:.2f}")
+    # print(f"Second best matching document: {second_best} with score {second_best_score:.2f}")
 
 context = docs[best_doc]()
 response = client.chat.completions.create(
